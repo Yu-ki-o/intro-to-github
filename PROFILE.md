@@ -14,8 +14,20 @@
 
 emoji : 👍:cat: 😍 🐵
 
-1.list1 呵呵呵呵
-   -吓死我了
+1.LIST1.   
+   - sub.   
+     - subsub.   
+         - subsubsub. 
+     - subsub2. 
+     - end. 
+   - sub2.   
+   - sub3.    
+   - sub4.   
+   - end. 
+
+
+
+
 
 2.啦啦啦
 
