@@ -74,13 +74,23 @@ The site is was built by [Github](https://github.com/LeetCode-OpenSource/vscode-
 
 **——————————————————————————————**  
 
-**Collapesed Section**  
 <details>
-<summary>**Tips for collapesed section**</summary>
- ### You can add a header.
-You can add text within a collapesed section.
- You can .  
-</details>   
+
+**<summary>Tips for collapsed sections</summary>**
+
+### You can add a header
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+```ruby
+
+   puts "Hello World"
+
+```
+
+</details>
 
 **______________________________**  
 
