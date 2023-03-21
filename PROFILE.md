@@ -72,7 +72,18 @@ The site is was built by [Github](https://github.com/LeetCode-OpenSource/vscode-
 
 ![kuagsan](クルミ.png)  
 
-**——————————————————————————————**
+**——————————————————————————————**  
+
+**Collapesed Section**  
+<details>
+<summary>**Tips for collapesed section**</summary>
+ ### You can add a header.
+You can add text within a collapesed section.
+ You can .  
+</details>   
+
+**______________________________**  
+
 ###### A sixth-level heading
 ## test
 ## test1
