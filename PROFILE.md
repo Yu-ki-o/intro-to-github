@@ -1,6 +1,11 @@
 # A first-level heading
 <sub> this is a subscript text</sub>
 <sup> this is a subscript text</sup>
+
+$\left(\frac{x}{y}+\frac{m}{n}\right)^{n^2}$
+
+
+$$\displaystyle\sum_{i=0}^{10}T_i\leq\displaystyle\sum_{j=0}^{10}M_j$$
 ## A second-level heading
 **加粗---CB**
 
